@@ -55,7 +55,7 @@ FIWARE NGSI Context Brokers and LoRaWAN devices.
 
 ### Data models
 
--   [CayenneLpp](https://developers.mydevices.com/cayenne/docs/lora/#lora-cayenne-low-power-payload)
+-   [CayenneLpp](https://docs.mydevices.com/docs/lorawan/cayenne-lpp)
 -   [CBOR](https://datatracker.ietf.org/doc/html/rfc7049)
 -   Proprietary format decoded by LoRaWAN application server.
 
