@@ -2,7 +2,7 @@
 
 Currently, the FIWARE LoRaWAN IoT agent implements the following data models:
 
--   [CayenneLpp](https://developers.mydevices.com/cayenne/docs/lora/#lora-cayenne-low-power-payload)
+-   [CayenneLpp](https://docs.mydevices.com/docs/lorawan/cayenne-lpp)
 -   [IETF CBOR](https://datatracker.ietf.org/doc/html/rfc7049)
 -   The payload is directly decoded by the LoRaWAN application server.
 
